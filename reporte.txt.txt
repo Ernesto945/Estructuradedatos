@@ -1,0 +1,10 @@
+90, jaime, 2022, 3, Autor: joel
+90, jaime, 2022, 3, Autor: joel
+Código: 046
+Título: jad
+Año: 035
+Tomo: 2
+Autor: joel
+Categoría: mate
+
+090, coquito, 2005, 6, Autor: joel diaz, ciencia
