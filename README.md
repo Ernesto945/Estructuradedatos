@@ -1,2 +1,0 @@
-# Estructuradedatos
-hola
